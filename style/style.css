@@ -86,7 +86,7 @@ li {
 }
 
 /* section N1 */
-section {
+.section1 {
     width: 1440px;
     height: 720px;
     display: flex;
@@ -146,3 +146,140 @@ button {
     margin-top: 45px;
 }
 
+/* section N2 */
+.section2 {
+    width: 1180px;
+    height: 600px;
+    margin: 200px 130px;
+}
+
+.title3 {
+    color: #4D4D4D;
+    margin-left: 333px;
+    margin-bottom: 54px;
+    /* Heading 1/medium */
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130%;
+    /* 62.4px */
+    letter-spacing: 0.24px;
+    width: 515px;
+    height: 62px;
+}
+
+.forest {
+    width: 580px;
+    height: 278px;
+    vertical-align: top;
+}
+
+.mountains {
+    width: 580px;
+    height: 278px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.text4 {
+    color: #535353;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    /* 150% */
+    letter-spacing: 0.12px;
+    width: 580px;
+    height: 36px;
+    margin-top: 32px;
+}
+
+.text5 {
+    color: #535353;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    /* 150% */
+    letter-spacing: 0.12px;
+    width: 491px;
+    height: 36px;
+    margin-top: 20px;
+}
+
+.article3 {
+    width: 580px;
+    height: 346px;
+}
+
+/* footer */
+
+footer {
+    margin: 0 auto;
+    width: 1440px;
+    height: 328px;
+    padding: 90px 130px;
+    background: #2A9D8F;
+}
+
+.figure1 {
+    width: 580px;
+    height: 346px;
+    display: inline-block;
+}
+
+.logo2 {
+    border-radius: 50px;
+    border: 3px solid #FFF;
+    display: flex;
+    width: 98px;
+    height: 98px;
+    padding: 22px 27.359px 21.621px 28px;
+    align-items: center;
+}
+
+.fp1 {
+    color: #FFF;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.fp2{
+    width: 100;
+    height: 27px;
+    color: #FFF;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+margin: 21px 0 8px 0;
+}
+
+.fp3{
+    width: 148px;
+    height: 27px;
+    color: #FFF;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+margin-bottom: 8px;
+}
+
+.fp4{
+    color: #FFF;
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.footernav {
+    display: inline-block;
+    vertical-align: top;
+}
